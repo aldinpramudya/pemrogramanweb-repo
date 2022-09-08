@@ -1,0 +1,56 @@
+body{
+    background-color: black;
+}
+
+.side{
+    background-color: rgb(224, 174, 107);
+    height: 1300px;
+    width : 30%;
+    position: fixed;
+    float: left;
+}
+
+.main{
+    background-color: rgb(206, 202, 198);
+    width: 69%;
+    float: right;
+    height: 1700px;
+}
+
+.aldin{
+    color: blue;
+}
+
+.name{
+    margin: 35px;
+    font-size: 100px;
+}
+
+.g1{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 15px;
+}
+
+.sideabout{
+    margin-left: 30px;
+    margin-right: 10px;
+    font-size: 12px;
+}
+
+.name2{
+    margin-left: 35px;
+}
+
+.pengalaman{
+    margin-left: 35px;
+}
+
+.pendidikan{
+    margin-left: 35px;
+}
+
+.gallery{
+    margin-left: 35px;
+}
